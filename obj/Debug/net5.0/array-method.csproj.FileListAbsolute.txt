@@ -1,0 +1,15 @@
+/Users/hakkiayman/Desktop/VisualStudioCode/array-method/bin/Debug/net5.0/array-method.deps.json
+/Users/hakkiayman/Desktop/VisualStudioCode/array-method/bin/Debug/net5.0/array-method.runtimeconfig.json
+/Users/hakkiayman/Desktop/VisualStudioCode/array-method/bin/Debug/net5.0/array-method.runtimeconfig.dev.json
+/Users/hakkiayman/Desktop/VisualStudioCode/array-method/bin/Debug/net5.0/array-method.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/array-method/bin/Debug/net5.0/ref/array-method.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/array-method/bin/Debug/net5.0/array-method.pdb
+/Users/hakkiayman/Desktop/VisualStudioCode/array-method/obj/Debug/net5.0/array-method.csproj.AssemblyReference.cache
+/Users/hakkiayman/Desktop/VisualStudioCode/array-method/obj/Debug/net5.0/array-method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakkiayman/Desktop/VisualStudioCode/array-method/obj/Debug/net5.0/array-method.AssemblyInfoInputs.cache
+/Users/hakkiayman/Desktop/VisualStudioCode/array-method/obj/Debug/net5.0/array-method.AssemblyInfo.cs
+/Users/hakkiayman/Desktop/VisualStudioCode/array-method/obj/Debug/net5.0/array-method.csproj.CoreCompileInputs.cache
+/Users/hakkiayman/Desktop/VisualStudioCode/array-method/obj/Debug/net5.0/array-method.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/array-method/obj/Debug/net5.0/ref/array-method.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/array-method/obj/Debug/net5.0/array-method.pdb
+/Users/hakkiayman/Desktop/VisualStudioCode/array-method/obj/Debug/net5.0/array-method.genruntimeconfig.cache
